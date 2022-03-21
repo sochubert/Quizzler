@@ -1,5 +1,7 @@
 # Quizzler
 
+<img src="https://user-images.githubusercontent.com/31719821/159259873-94b1cec2-cdfa-4630-939d-487d08371a87.gif"  width="400"/>
+
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
